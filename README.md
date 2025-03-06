@@ -1,4 +1,4 @@
-# Ambulance Karo — Pakistan's first E-Ambulance app
+# Ambulance Karo — 
 
 Ambulance Karo is a web application that provides a convenient and efficient way to request an ambulance. The app is built with the Pern stack (PostgreSQL, Express.js, React, and Node.js) and uses JWT authentication for secure user login.
 
